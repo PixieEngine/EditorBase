@@ -15,5 +15,16 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = EditorBase::VERSION
 
+  gem.add_development_dependency "middleman", "3.0.1"
 
+  %w[
+    backbone-source
+    coffee-filter
+    cornerstone-source
+    haml_coffee_assets
+    jquery-source
+    underscore-source
+  ].each do |name|
+    gem.add_dependency name
+  end
 end
