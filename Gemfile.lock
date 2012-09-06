@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/PixieEngine/pixie_sass
+  revision: 9c4f7df796b02fde788f8e484d2b079f60e957b8
+  specs:
+    pixie_sass (0.0.1)
+      compass
+
 PATH
   remote: .
   specs:
@@ -124,3 +131,4 @@ PLATFORMS
 DEPENDENCIES
   editor_base!
   middleman (~> 3.0.0)
+  pixie_sass!

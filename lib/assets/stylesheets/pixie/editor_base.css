@@ -1,8 +1,8 @@
 /* Styles common to all editors and editor components (pixel, animation, etc.) */
-/* line 12, pixie/util/_contents_centered.sass */
+/* line 12, ../../../../.rvm/gems/ruby-1.9.2-p290/bundler/gems/pixie_sass-9c4f7df796b0/lib/stylesheets/pixie/util/_contents_centered.sass */
 .contents_centered {
   position: relative; }
-  /* line 4, pixie/util/_contents_centered.sass */
+  /* line 4, ../../../../.rvm/gems/ruby-1.9.2-p290/bundler/gems/pixie_sass-9c4f7df796b0/lib/stylesheets/pixie/util/_contents_centered.sass */
   .contents_centered > * {
     margin: auto;
     position: absolute;
@@ -139,7 +139,7 @@ li {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     position: relative; }
-    /* line 4, pixie/util/_contents_centered.sass */
+    /* line 4, ../../../../.rvm/gems/ruby-1.9.2-p290/bundler/gems/pixie_sass-9c4f7df796b0/lib/stylesheets/pixie/util/_contents_centered.sass */
     .editor .screen > *, .editor .viewport > * {
       margin: auto;
       position: absolute;
