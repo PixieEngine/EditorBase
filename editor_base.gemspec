@@ -18,7 +18,9 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "middleman", "3.0.1"
 
   %w[
+    compass
     backbone-source
+    bootstrap-sass
     coffee-filter
     cornerstone-source
     haml_coffee_assets
